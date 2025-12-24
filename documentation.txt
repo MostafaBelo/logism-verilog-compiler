@@ -1,0 +1,8 @@
+comp location is top right corner for first output pin, matches first input pin's y, first input pin x = first output pin x - comp width
+every subsequent pin is the same as the one above it + pins diff
+comp width: 220(x)
+pins diff: 20(y)
+
+Order of pins is based on y top to bottom
+
+check non comp elements sizes: gates/splitters
